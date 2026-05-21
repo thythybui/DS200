@@ -1,0 +1,40 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# ===== Jupyter Notebook =====
+.ipynb_checkpoints/
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Environment variables =====
+.env
+
+# ===== Logs =====
+*.log
+
+# ===== Data files (tuỳ project) =====
+data/
+datasets/
+*.csv
+*.xlsx
+DS200_TH/
+
+# ===== Build / dist =====
+build/
+dist/
+*.egg-info/
