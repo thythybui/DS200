@@ -1,0 +1,12 @@
+Genre: Sci-Fi | Average Score: 3.73 | Total Ratings: 54
+Genre: Action | Average Score: 3.71 | Total Ratings: 54
+Genre: Drama | Average Score: 3.76 | Total Ratings: 128
+Genre: Thriller | Average Score: 3.70 | Total Ratings: 27
+Genre: Horror | Average Score: 4.00 | Total Ratings: 2
+Genre: Family | Average Score: 3.67 | Total Ratings: 18
+Genre: Biography | Average Score: 3.56 | Total Ratings: 25
+Genre: Film-Noir | Average Score: 4.36 | Total Ratings: 7
+Genre: Mystery | Average Score: 4.00 | Total Ratings: 2
+Genre: Adventure | Average Score: 3.63 | Total Ratings: 83
+Genre: Fantasy | Average Score: 3.86 | Total Ratings: 29
+Genre: Crime | Average Score: 3.81 | Total Ratings: 42
