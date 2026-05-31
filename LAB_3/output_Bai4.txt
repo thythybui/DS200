@@ -1,0 +1,147 @@
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 22 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 44 | Average Score: 4.50 | Total Ratings: 2
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 26 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 37 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 31 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 24 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 34 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 29 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 30 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 42 | Average Score: 4.50 | Total Ratings: 2
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 39 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 38 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 27 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 33 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Age: 36 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 50 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 48 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 42 | Average Score: 4.00 | Total Ratings: 3
+MovieID: 1025 | Title: The Terminator (1984) | Age: 27 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 40 | Average Score: 4.50 | Total Ratings: 2
+MovieID: 1025 | Title: The Terminator (1984) | Age: 44 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 33 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 26 | Average Score: 4.25 | Total Ratings: 2
+MovieID: 1025 | Title: The Terminator (1984) | Age: 22 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 37 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 32 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1025 | Title: The Terminator (1984) | Age: 61 | Average Score: 3.75 | Total Ratings: 2
+MovieID: 1025 | Title: The Terminator (1984) | Age: 46 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 41 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 42 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 45 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 29 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 33 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 37 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 39 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 44 | Average Score: 3.75 | Total Ratings: 2
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 50 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Age: 31 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1012 | Title: Psycho (1960) | Age: 38 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1012 | Title: Psycho (1960) | Age: 33 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 24 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 30 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 38 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 40 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 54 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 29 | Average Score: 3.00 | Total Ratings: 2
+MovieID: 1040 | Title: Gladiator (2000) | Age: 50 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 26 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 36 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 28 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 61 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 37 | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1040 | Title: Gladiator (2000) | Age: 45 | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1040 | Title: Gladiator (2000) | Age: 34 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1040 | Title: Gladiator (2000) | Age: 35 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 50 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 36 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 31 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 47 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 24 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 28 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Age: 42 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 41 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 30 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 36 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 39 | Average Score: 3.75 | Total Ratings: 2
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 33 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 42 | Average Score: 3.25 | Total Ratings: 2
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 45 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 29 | Average Score: 3.33 | Total Ratings: 3
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 48 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 44 | Average Score: 3.17 | Total Ratings: 3
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 54 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Age: 50 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 41 | Average Score: 3.25 | Total Ratings: 2
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 39 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 31 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 22 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 42 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 34 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 40 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 33 | Average Score: 3.25 | Total Ratings: 4
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 26 | Average Score: 3.38 | Total Ratings: 4
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Age: 44 | Average Score: 3.75 | Total Ratings: 2
+MovieID: 1047 | Title: The Social Network (2010) | Age: 25 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1047 | Title: The Social Network (2010) | Age: 38 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1047 | Title: The Social Network (2010) | Age: 39 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1047 | Title: The Social Network (2010) | Age: 30 | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1047 | Title: The Social Network (2010) | Age: 33 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1047 | Title: The Social Network (2010) | Age: 48 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1028 | Title: Fight Club (1999) | Age: 42 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1028 | Title: Fight Club (1999) | Age: 29 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1028 | Title: Fight Club (1999) | Age: 37 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1028 | Title: Fight Club (1999) | Age: 27 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1028 | Title: Fight Club (1999) | Age: 54 | Average Score: 3.50 | Total Ratings: 2
+MovieID: 1028 | Title: Fight Club (1999) | Age: 34 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Age: 37 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Age: 26 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Age: 31 | Average Score: 3.00 | Total Ratings: 2
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Age: 46 | Average Score: 3.00 | Total Ratings: 2
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Age: 50 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 40 | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 54 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 44 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 48 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 42 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 41 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 46 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 27 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 24 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 29 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 50 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 35 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 61 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 33 | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 32 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1043 | Title: No Country for Old Men (2007) | Age: 28 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 40 | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 24 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 33 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 48 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 37 | Average Score: 4.50 | Total Ratings: 2
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 28 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 26 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 30 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 44 | Average Score: 3.25 | Total Ratings: 2
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 22 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 34 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 36 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 41 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 61 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Age: 27 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 33 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 44 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 37 | Average Score: 3.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 41 | Average Score: 3.50 | Total Ratings: 3
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 19 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 45 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 40 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 42 | Average Score: 3.50 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 31 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 26 | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 50 | Average Score: 4.25 | Total Ratings: 2
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 30 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 36 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 46 | Average Score: 4.00 | Total Ratings: 1
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Age: 27 | Average Score: 4.00 | Total Ratings: 1

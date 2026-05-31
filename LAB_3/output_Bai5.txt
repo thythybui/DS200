@@ -1,0 +1,14 @@
+Occupation: 4 | Average Rating: 3.70 | Total Ratings: 5
+Occupation: 3 | Average Rating: 3.56 | Total Ratings: 18
+Occupation: 15 | Average Rating: 4.00 | Total Ratings: 8
+Occupation: 14 | Average Rating: 3.86 | Total Ratings: 14
+Occupation: 2 | Average Rating: 3.69 | Total Ratings: 21
+Occupation: 9 | Average Rating: 3.65 | Total Ratings: 17
+Occupation: 10 | Average Rating: 3.58 | Total Ratings: 6
+Occupation: 12 | Average Rating: 4.00 | Total Ratings: 13
+Occupation: 8 | Average Rating: 3.86 | Total Ratings: 11
+Occupation: 1 | Average Rating: 4.25 | Total Ratings: 10
+Occupation: 5 | Average Rating: 3.65 | Total Ratings: 17
+Occupation: 7 | Average Rating: 3.47 | Total Ratings: 16
+Occupation: 6 | Average Rating: 3.73 | Total Ratings: 11
+Occupation: 11 | Average Rating: 3.85 | Total Ratings: 17

@@ -1,0 +1,27 @@
+MovieID: 1025 | Title: The Terminator (1984) | Gender: M | Average Score: 3.93 | Total Ratings: 7
+MovieID: 1025 | Title: The Terminator (1984) | Gender: F | Average Score: 4.14 | Total Ratings: 11
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Gender: F | Average Score: 3.90 | Total Ratings: 5
+MovieID: 1039 | Title: The Lord of the Rings: The Return of the King (2003) | Gender: M | Average Score: 3.75 | Total Ratings: 6
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Gender: F | Average Score: 3.94 | Total Ratings: 8
+MovieID: 1013 | Title: The Godfather: Part II (1974) | Gender: M | Average Score: 4.06 | Total Ratings: 9
+MovieID: 1012 | Title: Psycho (1960) | Gender: F | Average Score: 4.00 | Total Ratings: 2
+MovieID: 1040 | Title: Gladiator (2000) | Gender: F | Average Score: 3.64 | Total Ratings: 7
+MovieID: 1040 | Title: Gladiator (2000) | Gender: M | Average Score: 3.59 | Total Ratings: 11
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Gender: M | Average Score: 4.33 | Total Ratings: 6
+MovieID: 1015 | Title: Sunset Boulevard (1950) | Gender: F | Average Score: 4.50 | Total Ratings: 1
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Gender: M | Average Score: 3.55 | Total Ratings: 10
+MovieID: 1010 | Title: Lawrence of Arabia (1962) | Gender: F | Average Score: 3.31 | Total Ratings: 8
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Gender: M | Average Score: 4.00 | Total Ratings: 4
+MovieID: 1050 | Title: Mad Max: Fury Road (2015) | Gender: F | Average Score: 3.32 | Total Ratings: 14
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Gender: F | Average Score: 3.00 | Total Ratings: 4
+MovieID: 1030 | Title: The Silence of the Lambs (1991) | Gender: M | Average Score: 3.33 | Total Ratings: 3
+MovieID: 1047 | Title: The Social Network (2010) | Gender: M | Average Score: 4.00 | Total Ratings: 4
+MovieID: 1047 | Title: The Social Network (2010) | Gender: F | Average Score: 3.67 | Total Ratings: 3
+MovieID: 1028 | Title: Fight Club (1999) | Gender: M | Average Score: 3.50 | Total Ratings: 4
+MovieID: 1028 | Title: Fight Club (1999) | Gender: F | Average Score: 3.50 | Total Ratings: 3
+MovieID: 1043 | Title: No Country for Old Men (2007) | Gender: M | Average Score: 3.92 | Total Ratings: 12
+MovieID: 1043 | Title: No Country for Old Men (2007) | Gender: F | Average Score: 3.83 | Total Ratings: 6
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Gender: F | Average Score: 3.80 | Total Ratings: 10
+MovieID: 1037 | Title: The Lord of the Rings: The Fellowship of the Ring (2001) | Gender: M | Average Score: 4.00 | Total Ratings: 8
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Gender: F | Average Score: 3.55 | Total Ratings: 10
+MovieID: 1020 | Title: E.T. the Extra-Terrestrial (1982) | Gender: M | Average Score: 3.81 | Total Ratings: 8
