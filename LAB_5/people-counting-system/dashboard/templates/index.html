@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Hệ thống đếm số người - Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; padding: 24px; }
+  h1 { font-size: 20px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { color: #94a3b8; font-size: 13px; margin-bottom: 24px; }
+  .cards { display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
+  .card { background: #1e293b; border-radius: 12px; padding: 16px 20px; min-width: 150px; }
+  .card .label { font-size: 12px; color: #94a3b8; margin-bottom: 6px; }
+  .card .value { font-size: 28px; font-weight: 700; color: #38bdf8; }
+  .chart-wrap { background: #1e293b; border-radius: 12px; padding: 20px; }
+</style>
+</head>
+<body>
+  <h1>Hệ thống đếm số người hiện diện</h1>
+  <div class="subtitle">Dữ liệu cập nhật mỗi 2 giây từ MongoDB (Storage Server)</div>
+
+  <div class="cards">
+    <div class="card"><div class="label">Số người hiện tại</div><div class="value" id="currentCount">-</div></div>
+    <div class="card"><div class="label">Camera</div><div class="value" id="cameraId" style="font-size:18px">-</div></div>
+    <div class="card"><div class="label">Tổng bản ghi</div><div class="value" id="totalRecords">-</div></div>
+    <div class="card"><div class="label">Đỉnh điểm</div><div class="value" id="maxCount">-</div></div>
+  </div>
+
+  <div class="chart-wrap">
+    <canvas id="chart" height="90"></canvas>
+  </div>
+
+<script>
+const ctx = document.getElementById('chart').getContext('2d');
+const chart = new Chart(ctx, {
+  type: 'line',
+  data: { labels: [], datasets: [{
+    label: 'Số người',
+    data: [],
+    borderColor: '#38bdf8',
+    backgroundColor: 'rgba(56,189,248,0.15)',
+    fill: true,
+    tension: 0.3,
+  }]},
+  options: {
+    scales: {
+      x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+      y: { beginAtZero: true, ticks: { color: '#94a3b8' }, grid: { color: '#334155' } },
+    },
+    plugins: { legend: { labels: { color: '#e2e8f0' } } },
+  },
+});
+
+async function refresh() {
+  try {
+    const [latestRes, summaryRes] = await Promise.all([
+      fetch('/api/latest'), fetch('/api/summary'),
+    ]);
+    const latest = await latestRes.json();
+    const summary = await summaryRes.json();
+
+    document.getElementById('currentCount').textContent = summary.current_count ?? '-';
+    document.getElementById('cameraId').textContent = summary.camera_id ?? '-';
+    document.getElementById('totalRecords').textContent = summary.total_records ?? '-';
+    document.getElementById('maxCount').textContent = summary.max_count ?? '-';
+
+    chart.data.labels = latest.map(d => new Date(d.captured_at * 1000).toLocaleTimeString());
+    chart.data.datasets[0].data = latest.map(d => d.people_count);
+    chart.update();
+  } catch (e) {
+    console.error('Lỗi tải dữ liệu dashboard:', e);
+  }
+}
+
+refresh();
+setInterval(refresh, 2000);
+</script>
+</body>
+</html>

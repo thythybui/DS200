@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.mp4
+*.avi
+*.mov
+!sample_video/README.md
+.DS_Store
+.env
+*.pt
+mongo-data/
